@@ -1,0 +1,4 @@
+﻿  AIspece.cpp
+d:\taker\aisterdent\aisterdent\aispece.cpp(45): warning C4102: “Q1”: 未引用的标签
+d:\taker\aisterdent\aisterdent\aispece.cpp(517): warning C4551: 缺少参数列表的函数调用
+  AIsterdent.vcxproj -> D:\Taker\AIsterdent\Debug\AIsterdent.exe
